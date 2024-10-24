@@ -1,0 +1,2 @@
+# hello_devops
+practical
